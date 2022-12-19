@@ -12,22 +12,22 @@ Can you imagine a world without coffee? You just can’t, right? Coffee shops ar
 With that in mind, our team decided to enhance a currently archaic supply management system from a local coffee shop. Our project consists of an inventory web app with management tools to optimize inventories, as well as inventory auditing, inventory control, and purchase order management. This inventory tracking app is designed to make small business owners' lives simpler, because tech isn't just for big, major corporations.
 
 ### Features
-• Users can create an account (with authentication and authorization)
-• Users can use a CRUD inventory system linked with an API
-• Users can search for item/category and view results
+• Users can create an account (with authentication and authorization)\
+• Users can use a CRUD inventory system linked with an API\
+• Users can search for item/category and view results\
 • Users can set up and receive push notifications to maintain safety stock
 
 ### Technologies
-• JavaScript
-• Angular
-• Java
-• Spring Boot
+• JavaScript\
+• Angular\
+• Java\
+• Spring Boot\
 • MySQL
 
 ### What I'll Have to Learn
-• How to connect Angular to Spring Boot
-• How to use data from an API
-• How to use responsive Web Design
+• How to connect Angular to Spring Boot\
+• How to use data from an API\
+• How to use responsive Web Design\
 • How to create push notifications
 
 ### Project Tracker
