@@ -8,12 +8,19 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+• Login Page:https://drive.google.com/file/d/1e0nK3Vpl82Iq57UIqadWgR0VeUoBVxXA/view?usp=share_link\
+• Registration Page:https://drive.google.com/file/d/153zq77qVC1JjuC08H1nnDgPZJyEJ9MVW/view?usp=share_link\
+• Authorized landing Page:https://drive.google.com/file/d/153zq77qVC1JjuC08H1nnDgPZJyEJ9MVW/view?usp=share_link\
+• All Inventory Page:https://drive.google.com/file/d/1VF0wA9CsbT8UCYtX9ThQ6189qy8dECe6/view?usp=share_link\
+• Add Item Page:\
+• Item Page:https://drive.google.com/file/d/10yRYyV2DkGxQp32aSVGDyfp3CcuQevEY/view?usp=share_link\
+• Low Stock Page:https://drive.google.com/file/d/1KhO2qqJdgsxzsqUjPZuQgezFQ5bdOdSZ/view?usp=share_link\
+• Search Page:https://drive.google.com/file/d/1wqkhG5kBrc0BL3GBomkxemIJoWwS692a/view?usp=share_link\
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/YawwUMVa/liftoff-group-project-trello
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/ashleyglenn0/inventory-tracker/
