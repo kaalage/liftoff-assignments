@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/kaalage
  
 ### LinkedIn
-https://www.linkedin.com/feed/
+https://www.linkedin.com/in/karina-lage
 
 ### Resume
 https://drive.google.com/file/d/11dHhmToA5y7bOeQ8nATNpFQ4uiWJDADl/view?usp=share_link
